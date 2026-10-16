@@ -15,10 +15,10 @@ MonoBehaviour:
   hexName: Hills
   type: 9
   terrainSprites:
-  - {fileID: 21300000, guid: 48b07420ef53de2479e5288e56da72e7, type: 3}
-  - {fileID: 21300000, guid: 8730228afd443c7459a6a806cfd3e30a, type: 3}
-  - {fileID: 21300000, guid: 8cc7ffcb5b611c5428c3686a0f3062cd, type: 3}
-  - {fileID: 21300000, guid: b16581dc16eaf7749835a952141c64e7, type: 3}
+  - {fileID: 2465804800757434196, guid: 33f60ad74adce1541b70808cbbced7ad, type: 3}
+  - {fileID: 7220757562210302203, guid: f2c88838d3e45bd4a83576236780b722, type: 3}
+  - {fileID: -3251175656947671533, guid: 6a8d9bff1aa238249b588671ba027012, type: 3}
+  - {fileID: 2878682382564487853, guid: 77a7ad2d63a8ecd40a293a4ef7d3cc38, type: 3}
   forestSprites: []
   resourceYield: 
   moveCost: 2

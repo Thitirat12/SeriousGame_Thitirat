@@ -15,14 +15,14 @@ MonoBehaviour:
   hexName: Grassland
   type: 1
   terrainSprites:
-  - {fileID: 21300000, guid: 82da5ddd2fd0a144a9ef7c39b22ab023, type: 3}
-  - {fileID: 21300000, guid: 8c40f6718f2212744b1ef7d480efe531, type: 3}
-  - {fileID: 21300000, guid: 16297603a4211fe40a7cfeb61806efb5, type: 3}
-  - {fileID: 21300000, guid: 81e8acae0f598b94ca10d27eeb620c29, type: 3}
+  - {fileID: -6185285927119824848, guid: a39108f237b6bdb489e451aad4ad69e2, type: 3}
+  - {fileID: 9130132138197550814, guid: ac570601ef6dcc84b955d17c0e269ce9, type: 3}
+  - {fileID: -6774440391738149276, guid: 82887042c03d6eb45b9cfb4fe17b90b0, type: 3}
+  - {fileID: -5807932526421579707, guid: b852ff76e1d21d04bbb919031d7108e1, type: 3}
   forestSprites:
-  - {fileID: 21300000, guid: 9b8e9df5ef6a07d48a613c76c41850ae, type: 3}
-  - {fileID: 21300000, guid: 2f442c6de15f2b94a8da7cf9a57d26ae, type: 3}
-  - {fileID: 21300000, guid: b76e36b9e9c51fc449480118ac30e6c2, type: 3}
-  - {fileID: 21300000, guid: fdb729cbc5cf36049b0db645e8dc042e, type: 3}
+  - {fileID: 8006411352955843546, guid: cb6d669527e1b03478322901ce167507, type: 3}
+  - {fileID: 7846403696529356298, guid: 0bfd8ffc5d5f7f74d9956dfce96c30e1, type: 3}
+  - {fileID: 8416858720029893628, guid: f215d421e8d6f384293b7d9a3d4f4fba, type: 3}
+  - {fileID: -6543653819156208598, guid: 5cf05a3f89f8f2648bffa59cf7f698b8, type: 3}
   resourceYield: 
   moveCost: 1

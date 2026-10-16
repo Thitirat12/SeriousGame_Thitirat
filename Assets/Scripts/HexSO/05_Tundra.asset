@@ -15,14 +15,14 @@ MonoBehaviour:
   hexName: Tundra
   type: 5
   terrainSprites:
-  - {fileID: 21300000, guid: d4a8745e91da9d54dbf75ef24c7ee1eb, type: 3}
-  - {fileID: 21300000, guid: 311d242da7ce9224fb148be98c39b1a7, type: 3}
-  - {fileID: 21300000, guid: f95bad793efcd024284e16658fe8271f, type: 3}
-  - {fileID: 21300000, guid: 22915cd7b05594c4eb1c38e5cc6f50ca, type: 3}
+  - {fileID: 2359889160950332282, guid: 8f8e70245f38dfa4d86cca0ecb15c786, type: 3}
+  - {fileID: -1184348765781459361, guid: ad2ca86cc23d7954d8395e7ecb675bff, type: 3}
+  - {fileID: 4356074772443680817, guid: 2a68ea762e5fb4c46be9f43376bc910d, type: 3}
+  - {fileID: -920331054880433033, guid: 34a2b628f402dbe48883c0002f4c8c48, type: 3}
   forestSprites:
-  - {fileID: 21300000, guid: 4a35c5e30a31ce548a939cfdefe75fb8, type: 3}
-  - {fileID: 21300000, guid: 284c47e0da8234e4e89c382fc348dfbb, type: 3}
-  - {fileID: 21300000, guid: b7954fd58876f7b4da395d97bceb4080, type: 3}
-  - {fileID: 21300000, guid: 98e009daf23d02f44a419396fa6e7180, type: 3}
+  - {fileID: 3692339176513354964, guid: 614e8127fee003a4d84fe7b70e18cf90, type: 3}
+  - {fileID: 2820069149260393199, guid: db8a109814c43cd4594446291aaac5fb, type: 3}
+  - {fileID: -5328416106098019108, guid: 8313c4388e8a5b549935e3b6d9e4190e, type: 3}
+  - {fileID: -5867607118122194033, guid: 766888f8d29186245b4fe7f7ca68852c, type: 3}
   resourceYield: 
   moveCost: 1

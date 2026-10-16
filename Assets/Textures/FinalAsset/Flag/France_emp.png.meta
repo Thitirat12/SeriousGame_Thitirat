@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 622742c6d37c3904aa158a603f156d86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7369659303145314381
+    second: France_emp_0
+  - first:
+      213: 872723175400984345
+    second: France_emp_1
+  - first:
+      213: 7300002632925351497
+    second: France_emp_2
+  - first:
+      213: 4556797340490857331
+    second: France_emp_3
+  - first:
+      213: -7368062154681799654
+    second: France_emp_4
+  - first:
+      213: 6143340144618122717
+    second: France_emp_5
+  - first:
+      213: -5976214603271449412
+    second: France_emp_6
+  - first:
+      213: -1889224284829416257
+    second: France_emp_7
+  - first:
+      213: 3529685832859725685
+    second: France_emp_8
+  - first:
+      213: 5689245585831200286
+    second: France_emp_9
+  - first:
+      213: 4580783144946935199
+    second: France_emp_10
+  - first:
+      213: 5852477215754094106
+    second: France_emp_11
+  - first:
+      213: -2841158565827000276
+    second: France_emp_12
+  - first:
+      213: 5358744184925488386
+    second: France_emp_13
+  - first:
+      213: -4676390501514572897
+    second: France_emp_14
+  - first:
+      213: -5149735689163374132
+    second: France_emp_15
+  - first:
+      213: 7660772769512448982
+    second: France_emp_16
+  - first:
+      213: 6448090135810155644
+    second: France_emp_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 258
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: France_emp_0
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1347
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4811af071a464660800000000000000
+      internalID: 7369659303145314381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: France_emp_1
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1315
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fc609aa198c1c00800000000000000
+      internalID: 872723175400984345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: France_emp_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1320
+        width: 51
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e8ee2b7b1de4560800000000000000
+      internalID: 7300002632925351497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: France_emp_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1322
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bf669c90ffc3f30800000000000000
+      internalID: 4556797340490857331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: France_emp_4
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1308
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c213b02826fb990800000000000000
+      internalID: -7368062154681799654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: France_emp_5
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1317
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd2c5e0057814550800000000000000
+      internalID: 6143340144618122717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: France_emp_6
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1290
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4d08e4b78301da0800000000000000
+      internalID: -5976214603271449412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: France_emp_7
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1326
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb483b1c58028c5e0800000000000000
+      internalID: -1889224284829416257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: France_emp_8
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1324
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f255c5096fbf030800000000000000
+      internalID: 3529685832859725685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: France_emp_9
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1316
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e168d67a7b244fe40800000000000000
+      internalID: 5689245585831200286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: France_emp_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 1019
+        height: 1317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95a8a31006329f30800000000000000
+      internalID: 4580783144946935199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: France_emp_11
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1296
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16071d150d283150800000000000000
+      internalID: 5852477215754094106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: France_emp_12
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1284
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28c255665d2298d0800000000000000
+      internalID: -2841158565827000276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: France_emp_13
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1187
+        width: 86
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2058ca0c1751e5a40800000000000000
+      internalID: 5358744184925488386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: France_emp_14
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1284
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b863e8d9f1a1fb0800000000000000
+      internalID: -4676390501514572897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: France_emp_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc10448dca67888b0800000000000000
+      internalID: -5149735689163374132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: France_emp_16
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 389
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d366cfce38805a60800000000000000
+      internalID: 7660772769512448982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: France_emp_17
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 39
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c742aa8a0d73c7950800000000000000
+      internalID: 6448090135810155644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      France_emp_0: 7369659303145314381
+      France_emp_1: 872723175400984345
+      France_emp_10: 4580783144946935199
+      France_emp_11: 5852477215754094106
+      France_emp_12: -2841158565827000276
+      France_emp_13: 5358744184925488386
+      France_emp_14: -4676390501514572897
+      France_emp_15: -5149735689163374132
+      France_emp_16: 7660772769512448982
+      France_emp_17: 6448090135810155644
+      France_emp_2: 7300002632925351497
+      France_emp_3: 4556797340490857331
+      France_emp_4: -7368062154681799654
+      France_emp_5: 6143340144618122717
+      France_emp_6: -5976214603271449412
+      France_emp_7: -1889224284829416257
+      France_emp_8: 3529685832859725685
+      France_emp_9: 5689245585831200286
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

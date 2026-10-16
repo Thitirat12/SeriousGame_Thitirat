@@ -15,14 +15,14 @@ MonoBehaviour:
   hexName: Swamp
   type: 7
   terrainSprites:
-  - {fileID: 21300000, guid: 1daea85418ac6424aa4690b0b2120af4, type: 3}
-  - {fileID: 21300000, guid: 0711dacd601c9d54aa9bb076223388b8, type: 3}
-  - {fileID: 21300000, guid: 8f4f7c0cc5d11264db3e881ee9ec55bb, type: 3}
-  - {fileID: 21300000, guid: 2409c420c60032245835d01dcfd1d837, type: 3}
+  - {fileID: -8068746029677593093, guid: 9af461a664652944aacb4e9df457dc11, type: 3}
+  - {fileID: 7553020140569074339, guid: 697af83133b8a514ea9a5392639fa9a8, type: 3}
+  - {fileID: 4741339092335591150, guid: bf0e4964f73589e4a9be8fcc44bac9b4, type: 3}
+  - {fileID: -2522085002021513276, guid: 6a3299fa6c9fa4b40a0084dc897e70b3, type: 3}
   forestSprites:
-  - {fileID: 21300000, guid: 494a1e112ab821740ad5508b752fb953, type: 3}
-  - {fileID: 21300000, guid: 8b4a8f0fde8face4b90d1592642aab06, type: 3}
-  - {fileID: 21300000, guid: fc8ac03c4cff83d46ae3218fb3399bd2, type: 3}
-  - {fileID: 21300000, guid: c48dac4606330dd45822c246c3421aef, type: 3}
+  - {fileID: 8609977397775007770, guid: def1bad060fc27d458a7ccec417becec, type: 3}
+  - {fileID: -874139612776981889, guid: 405a0f6e4ddc86a4ab13789cb62009b0, type: 3}
+  - {fileID: 1316464961450276421, guid: e7023ce22873c9a4ba96b17dae2d95cf, type: 3}
+  - {fileID: 4646439922721477847, guid: af29c6fd8b688944385618d93040b0dc, type: 3}
   resourceYield: 
   moveCost: 2
